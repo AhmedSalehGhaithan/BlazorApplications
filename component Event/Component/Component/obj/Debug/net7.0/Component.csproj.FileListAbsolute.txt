@@ -1,0 +1,93 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\appsettings.Development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\appsettings.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.staticwebassets.runtime.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.exe
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.runtimeconfig.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\bin\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.MvcApplicationPartsAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets.build.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets.development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.Component.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.build.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\scopedcss\bundle\Component.styles.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\scopedcss\projectbundle\Component.bundle.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\refint\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\Component.genruntimeconfig.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Component\Component\obj\Debug\net7.0\ref\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\appsettings.Development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\appsettings.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.staticwebassets.runtime.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.exe
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.runtimeconfig.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\bin\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.MvcApplicationPartsAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets.build.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets.development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.Component.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.build.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\scopedcss\bundle\Component.styles.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\scopedcss\projectbundle\Component.bundle.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\refint\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\Component.genruntimeconfig.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\Parameter\Component\Component\obj\Debug\net7.0\ref\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\appsettings.Development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\appsettings.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.staticwebassets.runtime.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.exe
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.runtimeconfig.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\bin\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.MvcApplicationPartsAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.RazorAssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets.build.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets.development.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.Component.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.build.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Component.props
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\scopedcss\bundle\Component.styles.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\scopedcss\projectbundle\Component.bundle.scp.css
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\refint\Component.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\Component.genruntimeconfig.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\component Event\Component\Component\obj\Debug\net7.0\ref\Component.dll

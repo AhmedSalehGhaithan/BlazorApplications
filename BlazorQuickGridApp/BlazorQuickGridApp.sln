@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorQuickGrid", "BlazorQuickGrid\BlazorQuickGrid\BlazorQuickGrid.csproj", "{6BE80515-6BA5-4146-913D-905CEE5D7F63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorQuickGrid.Client", "BlazorQuickGrid\BlazorQuickGrid.Client\BlazorQuickGrid.Client.csproj", "{1852B0A7-16C6-454D-848D-8B1E45111A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE80515-6BA5-4146-913D-905CEE5D7F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE80515-6BA5-4146-913D-905CEE5D7F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE80515-6BA5-4146-913D-905CEE5D7F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE80515-6BA5-4146-913D-905CEE5D7F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1852B0A7-16C6-454D-848D-8B1E45111A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1852B0A7-16C6-454D-848D-8B1E45111A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1852B0A7-16C6-454D-848D-8B1E45111A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1852B0A7-16C6-454D-848D-8B1E45111A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF88EC4B-0628-4F01-B7F1-63D3A028AA30}
+	EndGlobalSection
+EndGlobal

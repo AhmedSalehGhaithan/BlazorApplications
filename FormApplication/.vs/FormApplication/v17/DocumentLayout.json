@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp.client\\pages\\myforms.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|solutionrelative:formapp\\formapp.client\\pages\\myforms.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp.client\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|solutionrelative:formapp\\formapp.client\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|solutionrelative:formapp\\formapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|solutionrelative:formapp\\formapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|solutionrelative:formapp\\formapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|solutionrelative:formapp\\formapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|solutionrelative:formapp\\formapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E52B62-F439-4CE5-AE36-0BE71E13E4ED}|FormApp\\FormApp\\FormApp.csproj|solutionrelative:formapp\\formapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\formapplication\\formapp\\formapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93D791BC-A9E6-4AA0-B615-D4CAB7067616}|FormApp\\FormApp.Client\\FormApp.Client.csproj|solutionrelative:formapp\\formapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "FormApp\\FormApp.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:05:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "FormApp\\FormApp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:18:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FormApp\\FormApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:18:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FormApp\\FormApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:17:32.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp.Client\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\_Imports.razor",
+              "RelativeToolTip": "FormApp\\FormApp.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:05:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "FormApp\\FormApp.Client\\Models\\PersonModel.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Models\\PersonModel.cs",
+              "RelativeToolTip": "FormApp\\FormApp.Client\\Models\\PersonModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:04:15.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForms.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Pages\\MyForms.razor",
+              "RelativeDocumentMoniker": "FormApp\\FormApp.Client\\Pages\\MyForms.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Pages\\MyForms.razor",
+              "RelativeToolTip": "FormApp\\FormApp.Client\\Pages\\MyForms.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:03:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Program.cs",
+              "RelativeDocumentMoniker": "FormApp\\FormApp\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp\\Program.cs",
+              "RelativeToolTip": "FormApp\\FormApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:57:36.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "FormApp\\FormApp.Client\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\FormApplication\\FormApp\\FormApp.Client\\Program.cs",
+              "RelativeToolTip": "FormApp\\FormApp.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:57:27.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

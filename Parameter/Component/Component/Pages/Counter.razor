@@ -1,0 +1,72 @@
+﻿@page "/counter"
+@inject NavigationManager navigation
+@inject ILogger<Counter> logger
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount:@currentCount2</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="GoToBetterCounter">Go To Better Counter</button>
+
+@code {
+    private int currentCount = 0;
+    private int currentCount2 = 0;
+
+    private async Task IncrementCount()
+    {
+        // currentCount++;
+        // //managing state
+        // await Task.Delay(1000);
+        // currentCount++;
+        // StateHasChanged();
+
+        // await Task.Delay(1000);
+        // currentCount++;
+        // StateHasChanged();
+
+        // await Task.Delay(1000);
+        // currentCount++;
+        // StateHasChanged();
+
+        // await Task.Delay(1000);
+        // currentCount++;
+        do { 
+        for(int i = 1; i < 60; i++)
+        {
+            await Task.Delay(1000);
+            currentCount++;
+            StateHasChanged();
+        }
+        currentCount2++;
+        currentCount = 0;
+            StateHasChanged();
+        } while (currentCount2 != 30);
+
+    }
+
+    private void GoToBetterCounter()
+    {
+        string page = "BetterCounter";
+
+        string Title = "Hello World";
+
+        navigation.NavigateTo($"{page}/{Title}");
+    }
+
+    protected override void OnParametersSet()
+    {
+        logger.LogInformation("This is from OnParametersSet");
+    }
+
+    protected override void OnInitialized()
+    {
+        logger.LogInformation("This is from OnInitialized");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        logger.LogInformation($"This is from OnAfterRender (first render {firstRender})");
+    }
+}

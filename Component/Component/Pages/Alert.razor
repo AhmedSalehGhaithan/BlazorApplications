@@ -1,0 +1,13 @@
+﻿@if(Show){
+    <div class="alert alert-danger mt-4" role="alert">
+        @ChildContent
+    </div>
+}
+
+@code{
+    [Parameter]
+    public bool Show {get;set;}
+    [Parameter]
+    public RenderFragment ChildContent { get; set; } = default;
+
+}

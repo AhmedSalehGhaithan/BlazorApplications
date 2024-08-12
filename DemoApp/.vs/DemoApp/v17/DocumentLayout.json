@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\dependencylibrary\\demodependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|solutionrelative:dependencylibrary\\demodependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\dependencylibrary\\idependencyinblazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|solutionrelative:dependencylibrary\\idependencyinblazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\demoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\demoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\counter.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\counter.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\counter.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\counter.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\b476346c-6dd6-4b58-914f-fbb248edac79\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\demoapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{628C2ED7-3D34-4BAF-87CF-D51438EFE063}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoapp\\dependencylibrary\\dependencylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{447F5907-8899-44CD-86F5-709B23CCF21B}|DependencyLibrary\\DependencyLibrary.csproj|solutionrelative:dependencylibrary\\dependencylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T21:38:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoApp",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeToolTip": "DemoApp\\DemoApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T21:38:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoApp",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeToolTip": "DemoApp\\DemoApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T21:38:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor.js",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor.js",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Counter.razor.js",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor.js",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Counter.razor.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-18T22:26:13.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "DemoApp\\wwwroot\\app.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\wwwroot\\app.css",
+              "RelativeToolTip": "DemoApp\\wwwroot\\app.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-18T22:05:49.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Counter.razor.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor.css",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Counter.razor.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor.css",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Counter.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-18T22:03:50.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:28:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\b476346c-6dd6-4b58-914f-fbb248edac79\\secrets.json",
+              "ToolTip": "C:\\Users\\lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\b476346c-6dd6-4b58-914f-fbb248edac79\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:37:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoApp\\appsettings.Development.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\appsettings.Development.json",
+              "RelativeToolTip": "DemoApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:34:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoApp\\appsettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeToolTip": "DemoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T20:21:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:13:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Routes.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Routes.razor",
+              "RelativeToolTip": "DemoApp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:13:38.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:13:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:13:29.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDependencyInBlazer.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\IDependencyInBlazer.cs",
+              "RelativeDocumentMoniker": "DependencyLibrary\\IDependencyInBlazer.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\IDependencyInBlazer.cs",
+              "RelativeToolTip": "DependencyLibrary\\IDependencyInBlazer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:01:31.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyLibrary.csproj",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\DependencyLibrary.csproj",
+              "RelativeDocumentMoniker": "DependencyLibrary\\DependencyLibrary.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\DependencyLibrary.csproj",
+              "RelativeToolTip": "DependencyLibrary\\DependencyLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T20:00:28.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:58:48.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoDependency.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\DemoDependency.cs",
+              "RelativeDocumentMoniker": "DependencyLibrary\\DemoDependency.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DependencyLibrary\\DemoDependency.cs",
+              "RelativeToolTip": "DependencyLibrary\\DemoDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:53:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "DemoApp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:37:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\App.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\App.razor",
+              "RelativeToolTip": "DemoApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:37:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DemoApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoApp\\DemoApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DemoApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:34:17.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

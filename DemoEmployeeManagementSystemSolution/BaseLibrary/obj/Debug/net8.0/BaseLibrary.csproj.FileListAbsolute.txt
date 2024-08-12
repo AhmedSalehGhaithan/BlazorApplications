@@ -1,0 +1,12 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache

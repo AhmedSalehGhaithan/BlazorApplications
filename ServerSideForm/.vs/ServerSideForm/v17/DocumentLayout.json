@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\pages\\sample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\pages\\sample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\model\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\model\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\serversideform\\serversideform\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5E1B52-7E59-4A80-B16D-7A7D865C1659}|ServerSideForm\\ServerSideForm.csproj|solutionrelative:serversideform\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T20:06:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T20:06:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:46:38.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sample.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Sample.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Pages\\Sample.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Sample.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Pages\\Sample.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:31:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\_Imports.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:30:21.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SampleModel.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Model\\SampleModel.cs",
+              "RelativeDocumentMoniker": "ServerSideForm\\Model\\SampleModel.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Model\\SampleModel.cs",
+              "RelativeToolTip": "ServerSideForm\\Model\\SampleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:29:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:26:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAqwIsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-20T23:26:06.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:25:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ServerSideForm\\Components\\Routes.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ServerSideForm\\ServerSideForm\\Components\\Routes.razor",
+              "RelativeToolTip": "ServerSideForm\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:25:44.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

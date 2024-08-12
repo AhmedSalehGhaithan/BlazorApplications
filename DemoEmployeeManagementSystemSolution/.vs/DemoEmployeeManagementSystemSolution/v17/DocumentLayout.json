@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|solutionrelative:server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\serverlibrary\\repositries\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositries\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\serverlibrary\\helpus\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpus\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7534C3AF-5E74-4147-8637-92B309C3E377}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.UserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.SystemRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.ApplicationUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\serverlibrary\\helpus\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpus\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\serverlibrary\\repositries\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EE1A0-1B85-4059-B612-92F5721B6033}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositries\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42DBA94-579A-460D-9859-E798524E18E9}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T22:10:41.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T19:34:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:37:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:37:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:37:40.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:16:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUSerAccount.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositries\\Contracts\\IUSerAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositries\\Contracts\\IUSerAccount.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositries\\Contracts\\IUSerAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositries\\Contracts\\IUSerAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:28:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Helpus\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpus\\JwtSection.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Helpus\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpus\\JwtSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:27:53.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Helpus\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpus\\Constants.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Helpus\\Constants.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpus\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:27:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:27:38.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:27:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:26:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:26:45.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:26:44.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:26:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:26:14.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositries\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositries\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositries\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositries\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:18:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:12:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountBase.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:11:19.405Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.UserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.UserRoles.sql",
+              "ToolTip": "dbo.UserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-25T18:49:20.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.SystemRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.SystemRoles.sql",
+              "ToolTip": "dbo.SystemRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-25T18:49:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.ApplicationUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_B35KRGE/DemoEmployeeDataBase/True/SqlTable/dbo.ApplicationUsers.sql",
+              "ToolTip": "dbo.ApplicationUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-25T18:47:46.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

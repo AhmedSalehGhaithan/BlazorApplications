@@ -1,0 +1,26 @@
+/* /Layout/Footer.razor.rz.scp.css */
+.footerStyle[b-b5miv9zuex] {
+    background-color: var(--cf-theme-900);
+    color: var(--cf-light-color);
+}
+
+    .footerStyle a[b-b5miv9zuex] {
+        color: var(--cf-theme-200);
+    }
+
+        .footerStyle a:hover[b-b5miv9zuex] {
+            color: var(--cf-theme-core);
+        }
+
+    .footerStyle .bi[b-b5miv9zuex] {
+        font-size: 1.5rem;
+        padding-inline-start: 0.5rem;
+    }
+/* /Layout/TopNavMenu.razor.rz.scp.css */
+.navStyle[b-u3qznpjff5] {
+    background-color: var(--cf-theme-900);
+}
+
+.navbar-nav[b-u3qznpjff5] {
+    --bs-navbar-hover-color: var(--cf-theme-400);
+}

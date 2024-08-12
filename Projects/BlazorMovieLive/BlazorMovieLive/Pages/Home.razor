@@ -1,0 +1,38 @@
+﻿@page "/"
+@inject TMDBClient TMDB;
+<PageTitle>Home</PageTitle>
+<div class="h-100 d-flex flex-column justify-content-center align-items-center">
+    <h1>Hello, world!</h1>
+
+    Welcome to your new app.
+    <img src="/Images/THEMOVEDBLogo.svg" class="w-25" />
+    <button class=" btn btn-primary mt-3">primary button</button>
+    @if(movies is not null)
+    {
+        <ul>
+            @foreach(var movie in movies.Results)
+            {
+                <li>@movie.Title</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Movies are still loading...</p>
+    }
+</div>
+
+@code{
+   private PopularMoviePagedResponse? movies;
+
+    // [SupplyParameterFromQuery]
+    // public int Page { get; set; } = 1;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        // if (Page < 1) Page = 1;
+        // else if (Page > 500) Page = 500;
+
+        movies = await TMDB.GetPopularMoviesAsync();
+    }
+}

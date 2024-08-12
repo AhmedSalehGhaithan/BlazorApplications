@@ -1,0 +1,42 @@
+﻿@page "/posts"
+@inject HttpClient Http
+
+<PageTitle>Posts</PageTitle>
+
+<h3>posts</h3>
+<button class="btn btn-outline-success" @onclick="LoadMethod">Load data</button>
+<button class="btn btn-outline-danger" @onclick="LoadMethod">Close data</button>
+@if(load){
+@if (Member is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+
+    <Virtualize Items="Member" Context="p">
+    <div>
+        <h2>@p.title</h2>
+        <p>
+            @p.body
+        </p>
+    </div>
+</Virtualize>
+}
+}
+@code {
+    private postModel[]? Member;
+
+    private bool load = false;
+    protected override async Task OnInitializedAsync()
+    {
+        Member = await Http.GetFromJsonAsync<postModel[]>("posts");
+    }
+
+    private void LoadMethod()
+    {
+        load = !load;
+    }
+
+    
+}

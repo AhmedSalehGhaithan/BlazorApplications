@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ComponentApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA395AF8-FF60-48B1-BDE1-B4ADFFB24E93}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\componentapplication\\component\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA395AF8-FF60-48B1-BDE1-B4ADFFB24E93}|Component\\Component.csproj|solutionrelative:component\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA395AF8-FF60-48B1-BDE1-B4ADFFB24E93}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\componentapplication\\component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA395AF8-FF60-48B1-BDE1-B4ADFFB24E93}|Component\\Component.csproj|solutionrelative:component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ComponentApplication\\Component\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Component\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ComponentApplication\\Component\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Component\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T00:04:07.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ComponentApplication\\Component\\Program.cs",
+              "RelativeDocumentMoniker": "Component\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\ComponentApplication\\Component\\Program.cs",
+              "RelativeToolTip": "Component\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:10:27.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

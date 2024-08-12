@@ -1,0 +1,13 @@
+﻿@page "/posts"
+@inject HttpClient Http
+
+<PageTitle>Posts</PageTitle>
+
+<h3>posts</h3>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+    }
+}

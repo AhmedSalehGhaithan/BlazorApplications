@@ -1,0 +1,175 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+
+
+@*
+<h1>Counter</h1>
+<p>Current count: <span class="@BackgroundColor">@currentCount</span></p>
+
+<p>
+     <input type="number" @bind="@increment" /> 
+</p>
+<button class="btn btn-primary"
+        disabled="@IsGreaterThanTen()" @onclick=@(() =>currentCount += increment)>Click me</button>
+
+@code {
+    private int currentCount = 0;
+    private int increment = 1;
+    private string BackgroundColor
+    => (currentCount % 2 == 0) ? "red-background" : "yellow-background";
+
+    private bool IsGreaterThanTen()
+    {
+        return (currentCount >= 10) ? true : false;
+    }
+
+}
+*@
+
+
+@*
+<h1>Counter</h1>
+<p>Current count: <span class="@BackgroundColor">@currentCount</span></p>
+
+<p>
+    <input type="number" value="@increment"
+           @onchange="@((ChangeEventArgs e) =>increment = int.Parse($"{e.Value}"))" />
+</p>
+<button class="btn btn-primary"
+        disabled="@IsGreaterThanTen()" @onclick=@(() =>currentCount += increment)>
+    Click me
+</button>
+
+@code {
+    private int currentCount = 0;
+    private int increment = 1;
+    private string BackgroundColor
+    => (currentCount % 2 == 0) ? "red-background" : "yellow-background";
+
+    public bool IsGreaterThanTen()
+    {
+        return (currentCount >= 10) ? true : false;
+    }
+
+}
+*@
+
+
+@*
+    <h1>Counter</h1>
+    <p>Current count: <span class="@BackgroundColor">@currentCount</span></p>
+   
+    <p>
+    <input type="number" @bind=@increment @onkeypress="KeyHandlers" @onkeypress:preventDefault />
+    </p>
+
+<p>
+    <span class="alert-danger">@texts</span>
+</p>
+
+
+@code {
+    private int currentCount = 0;
+    private int increment = 1;
+    private string texts;
+    private void IncrementCount(MouseEventArgs e)
+    {
+        currentCount += increment;
+    }
+
+    private void KeyHandlers(KeyboardEventArgs symbole)
+    {
+        if (symbole.Key == "+")
+        {
+            increment++;
+            currentCount++;
+            texts = null;
+        }
+        else if (symbole.Key == "-")
+        {
+            increment--;
+            currentCount--;
+            texts = null;
+        }
+        else
+            texts = "Error ,just press the symbols '+' or '-'";
+
+    }
+
+
+    private string BackgroundColor
+    => (currentCount % 2 == 0) ? "red-background" : "yellow-background";
+}
+
+*@
+
+
+
+
+<h1>Counter</h1>
+<p>Current count: <span class="@BackgroundColor">@currentCount</span></p>
+
+<p>
+    <input type="number" @bind=@increment @onkeypress="KeyHandlers" @onkeypress:preventDefault />
+</p>
+<div style="width: 400px; height: 400px; background: yellow"
+     @onmousemove="OuterMouseMove">
+    @outerPos
+    <div style="width: 300px; height: 300px;
+ background: green; margin:50px"
+         @onmousemove="InnerMouseMove">
+        @innerPos
+    </div>
+</div>
+<br />
+
+<p>
+    <span class="alert-danger">@texts</span>
+</p>
+
+<p>
+    <input @bind="@Today" @bind:format="yyyy/MM/dd"/>
+</p>
+
+
+@code {
+    private int currentCount = 0;
+    private int increment = 1;
+    private DateTime Today { get; set; } = DateTime.Now;
+    private string texts;
+    private void IncrementCount(MouseEventArgs e)
+    {
+        currentCount += increment;
+    }
+
+    private string outerPos = "Nothing yet";
+    private void OuterMouseMove(MouseEventArgs e)
+     => outerPos = $"Mouse at {e.ClientX}x{e.ClientY}";
+    private string innerPos = "Nothing yet";
+    private void InnerMouseMove(MouseEventArgs e)
+     => innerPos = $"Mouse at {e.ClientX}x{e.ClientY}";
+
+    private void KeyHandlers(KeyboardEventArgs symbole)
+    {
+        if (symbole.Key == "+")
+        {
+            increment++;
+            currentCount++;
+            texts = null;
+        }
+        else if (symbole.Key == "-")
+        {
+            increment--;
+            currentCount--;
+            texts = null;
+        }
+        else
+            texts = "Error ,just press the symbols '+' or '-'";
+
+    }
+
+
+    private string BackgroundColor
+    => (currentCount % 2 == 0) ? "red-background" : "yellow-background";
+}

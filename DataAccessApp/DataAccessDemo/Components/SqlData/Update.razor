@@ -1,0 +1,93 @@
+﻿@rendermode InteractiveServer
+@inject IPeopleData sql
+
+<h3 class="mt-3">Update Person</h3>
+
+@if(people is null)
+{
+    <p>Loadding...</p>
+}
+else
+{
+    <EditForm Model="selectedPerson" method="post" FormName="createPersonForm" OnValidSubmit="LoadPersonToUpdate">
+
+        <InputSelect @bind-Value="selectedPerson.Id" class="form-control">
+            @foreach(var p in people)
+            {
+                <option value="@p.Id">@p.FirstName @p.LastName</option>
+            }
+        </InputSelect>
+
+        <button class="btn btn-outline-primary mt-4" type="submit">Update Person</button>
+    </EditForm>
+
+    @if(personToUpdate is not null)
+    {
+        <EditForm Model="personToUpdate" method="post" FormName="UpdatePersonForm" OnValidSubmit="UpdatePerson">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div>
+                <label>Id :</label>
+                <span>@personToUpdate.Id</span>
+            </div>
+            <div class="mb-3">
+                <label>First Name</label>
+                <InputText @bind-Value="personToUpdate.FirstName" />
+            </div>
+
+            <div class="mb-3">
+                <label>Last Name</label>
+                <InputText @bind-Value="personToUpdate.LastName" />
+            </div>
+
+            <button class="btn btn-outline-primary" type="submit">Update Person</button>
+        </EditForm>
+    }
+}
+@code {
+    private IEnumerable<PeopleModel>? people;
+    
+    private SelectedPersonModel selectedPerson = new();
+
+    private PeopleModel? personToUpdate;
+
+    private class SelectedPersonModel
+    {
+        public  int Id { get; set; }
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        await RefreshData();
+    }
+    private async Task RefreshData()
+    {
+        people = null;
+        people = await sql.GetAllPeople();
+    }
+
+    private void LoadPersonToUpdate()
+    {
+        var foundPerson = people.Where(p => p.Id == selectedPerson.Id).FirstOrDefault();
+        if(foundPerson is not null)
+        {
+            personToUpdate = new();
+            personToUpdate.Id = foundPerson.Id;
+            personToUpdate.FirstName = foundPerson.FirstName;
+            personToUpdate.LastName = foundPerson.LastName;
+        }
+
+        else
+        {
+            personToUpdate = null;
+        }
+    }
+    private async Task UpdatePerson()
+    {
+        await sql.UpdatePerson(personToUpdate);
+        personToUpdate = null;
+        selectedPerson.Id = 0;
+        await RefreshData();
+    }
+
+}

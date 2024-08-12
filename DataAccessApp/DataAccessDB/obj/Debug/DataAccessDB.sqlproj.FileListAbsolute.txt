@@ -1,0 +1,10 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.dacpac
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.sqlproj.AssemblyReference.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\Model.xml
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\refactor.xml
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\postdeploy.sql
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessDB\obj\Debug\predeploy.sql

@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\alert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\alert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\tow--waybinding\\blazorapp2\\blazorapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{910F052C-120F-45A8-8F9C-5248DEA4D7F2}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\blazorapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alert.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Alert.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Alert.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Alert.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Alert.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T00:26:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\SurveyPrompt.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\SurveyPrompt.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T00:20:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "BlazorApp2\\wwwroot\\favicon.png",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "BlazorApp2\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-16T23:18:42.179Z",
+              "EditorCaption": " -  [English (United States)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADwAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T22:35:19.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp2\\wwwroot\\app.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorApp2\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T22:35:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\App.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T22:30:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorApp2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorApp2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T20:27:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorApp2",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\BlazorApp2.csproj",
+              "RelativeDocumentMoniker": "BlazorApp2\\BlazorApp2.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\BlazorApp2.csproj",
+              "RelativeToolTip": "BlazorApp2\\BlazorApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T20:26:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:59.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:57.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:55.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Routes.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:52.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:25:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\Program.cs",
+              "RelativeToolTip": "BlazorApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:17:08.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

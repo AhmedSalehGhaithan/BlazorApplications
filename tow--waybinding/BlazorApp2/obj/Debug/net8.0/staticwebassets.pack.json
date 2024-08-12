@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\tow--waybinding\\BlazorApp2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp2.props",
+      "PackagePath": "build\\BlazorApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp2.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp2.props",
+      "PackagePath": "buildTransitive\\BlazorApp2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

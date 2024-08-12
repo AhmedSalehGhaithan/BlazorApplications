@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\dismissible.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\dismissible.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\dismissible.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\dismissible.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\eventhandler2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\eventhandler2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\eventhandler1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\eventhandler1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\mypage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\mypage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\pages\\alert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\pages\\alert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\component\\component\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDBDE7B-166C-4722-9F3F-BA14DB0441CF}|Component\\Component.csproj|solutionrelative:component\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventHandler2.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\EventHandler2.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\EventHandler2.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\EventHandler2.razor",
+              "RelativeToolTip": "Component\\Pages\\EventHandler2.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T23:44:22.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventHandler1.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\EventHandler1.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\EventHandler1.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\EventHandler1.razor",
+              "RelativeToolTip": "Component\\Pages\\EventHandler1.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T23:42:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "Component\\Data\\WeatherForecastService.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "Component\\Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:15:26.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Component\\Data\\WeatherForecast.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "Component\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:15:25.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Program.cs",
+              "RelativeDocumentMoniker": "Component\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Program.cs",
+              "RelativeToolTip": "Component\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:15:07.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\appsettings.json",
+              "RelativeDocumentMoniker": "Component\\appsettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\appsettings.json",
+              "RelativeToolTip": "Component\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T00:15:05.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Timer.cs",
+              "RelativeDocumentMoniker": "Component\\Pages\\Timer.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Timer.cs",
+              "RelativeToolTip": "Component\\Pages\\Timer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:05:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Component\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Component\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:00:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\FetchData.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Component\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:58:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Component\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Component\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:58:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dismissible.razor.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Dismissible.razor.cs",
+              "RelativeDocumentMoniker": "Component\\Pages\\Dismissible.razor.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Dismissible.razor.cs",
+              "RelativeToolTip": "Component\\Pages\\Dismissible.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:56:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dismissible.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Dismissible.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\Dismissible.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Dismissible.razor",
+              "RelativeToolTip": "Component\\Pages\\Dismissible.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:51:13.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Component\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Component\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:35:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\Index.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Index.razor",
+              "RelativeToolTip": "Component\\Pages\\Index.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:22:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Alert.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Alert.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\Alert.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Alert.razor",
+              "RelativeToolTip": "Component\\Pages\\Alert.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:21:38.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\Counter.razor",
+              "RelativeToolTip": "Component\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:19:18.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Component\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Component\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:14:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Component\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Component\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:14:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Component\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Component\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:14:57.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyPage.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\MyPage.razor",
+              "RelativeDocumentMoniker": "Component\\Pages\\MyPage.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\Pages\\MyPage.razor",
+              "RelativeToolTip": "Component\\Pages\\MyPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:14:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\App.razor",
+              "RelativeDocumentMoniker": "Component\\App.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\Component\\Component\\App.razor",
+              "RelativeToolTip": "Component\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:12:56.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

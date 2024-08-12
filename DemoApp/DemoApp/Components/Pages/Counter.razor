@@ -1,0 +1,29 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+@*make is auto to work*@
+@inject IJSRuntime Js
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+<h4>@subMessage</h4>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+    private string subMessage = "";
+    private IJSObjectReference? JsModel;
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        JsModel = await Js.InvokeAsync<IJSObjectReference>("import", "./Pages/Counter.razor.js");
+    }
+    private async Task IncrementCount()
+    {
+        currentCount+=4;
+        await JsModel!.InvokeVoidAsync("DisplayAlertFunction", currentCount);
+        subMessage = await JsModel!.InvokeAsync<string>("ReturnMessageFunction", currentCount);
+    }
+}

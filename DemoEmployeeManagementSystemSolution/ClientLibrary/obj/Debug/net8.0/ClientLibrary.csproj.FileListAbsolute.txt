@@ -1,0 +1,11 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoEmployeeManagementSystemSolution\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll

@@ -1,0 +1,31 @@
+﻿@rendermode InteractiveServer
+@inject IPeopleData sql
+<h3 class="mb-3">Create Person</h3>
+
+<EditForm Model="person" method="post" FormName="createPersonForm" OnValidSubmit="CreatePerson">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label>First Name</label>
+        <InputText @bind-Value="person.FirstName"/>
+    </div>
+
+    <div class="mb-3">
+        <label>Last Name</label>
+        <InputText @bind-Value="person.LastName" />
+    </div>
+
+    <button class="btn btn-outline-primary" type="submit">Create Person</button>
+</EditForm>
+
+@code {
+    private PeopleModel person = new();
+
+    private async Task CreatePerson()
+    {
+        await sql .InsertPerson(person);
+        person = new();
+    }
+
+}

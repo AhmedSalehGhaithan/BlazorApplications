@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\services\\tmdbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\services\\tmdbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\models\\popularmoviepagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\models\\popularmoviepagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\models\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\models\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\models\\popularmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\models\\popularmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\topnavmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\topnavmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\wwwroot\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\wwwroot\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\projects\\blazormovielive\\blazormovielive\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85B11E62-B89B-42A3-8725-F728FBB299D7}|BlazorMovieLive\\BlazorMovieLive.csproj|solutionrelative:blazormovielive\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorMovieLive\\Pages\\Home.razor",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T23:08:33.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopularMovie.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\PopularMovie.cs",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Models\\PopularMovie.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\PopularMovie.cs",
+              "RelativeToolTip": "BlazorMovieLive\\Models\\PopularMovie.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:55:53.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PopularMoviePagedResponse.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\PopularMoviePagedResponse.cs",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Models\\PopularMoviePagedResponse.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\PopularMoviePagedResponse.cs",
+              "RelativeToolTip": "BlazorMovieLive\\Models\\PopularMoviePagedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:54:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDetails.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\MovieDetails.cs",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Models\\MovieDetails.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Models\\MovieDetails.cs",
+              "RelativeToolTip": "BlazorMovieLive\\Models\\MovieDetails.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:53:32.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\wwwroot\\appsettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "BlazorMovieLive\\wwwroot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T22:50:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Program.cs",
+              "RelativeToolTip": "BlazorMovieLive\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:42:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMDBClient.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Services\\TMDBClient.cs",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Services\\TMDBClient.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Services\\TMDBClient.cs",
+              "RelativeToolTip": "BlazorMovieLive\\Services\\TMDBClient.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:42:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Footer.razor.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\Footer.razor.css",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\Footer.razor.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\Footer.razor.css",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\Footer.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-06T22:32:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\Footer.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\Footer.razor",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\Footer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T22:12:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "themes.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\css\\themes.css",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\wwwroot\\css\\themes.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\css\\themes.css",
+              "RelativeToolTip": "BlazorMovieLive\\wwwroot\\css\\themes.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-06T22:02:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\wwwroot\\index.html",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorMovieLive\\wwwroot\\index.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-06T22:00:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TopNavMenu.razor.css",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavMenu.razor.css",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\TopNavMenu.razor.css",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavMenu.razor.css",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\TopNavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-06T21:59:53.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\_Imports.razor",
+              "RelativeToolTip": "BlazorMovieLive\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:55:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopNavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\TopNavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavMenu.razor",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\TopNavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:37:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopNavLayout.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavLayout.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\TopNavLayout.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\TopNavLayout.razor",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\TopNavLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:21:51.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorMovieLive\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:20:02.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\App.razor",
+              "RelativeDocumentMoniker": "BlazorMovieLive\\App.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Projects\\BlazorMovieLive\\BlazorMovieLive\\App.razor",
+              "RelativeToolTip": "BlazorMovieLive\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:19:40.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

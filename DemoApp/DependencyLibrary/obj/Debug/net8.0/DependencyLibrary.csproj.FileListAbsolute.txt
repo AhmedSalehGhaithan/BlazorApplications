@@ -1,0 +1,11 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\refint\DependencyLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DemoApp\DependencyLibrary\obj\Debug\net8.0\ref\DependencyLibrary.dll

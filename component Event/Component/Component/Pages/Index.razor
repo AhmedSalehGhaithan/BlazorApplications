@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+<h2>The count in Home page : @CurrentCounter</h2>
+<div>
+     <span class="oi oi-check mr-2" aria-hidden="true"></span>
+
+        <strong>Blazor is so cool!</strong>
+</div>
+@if (CurrentCounter < 5)
+{
+    <Counter OnCoubterChange="UpdateCounter" />
+}
+@if(CurrentCounter >= 5){
+    <h6 class="alert alert-danger">The Counter is now 5 and the counter has gone</h6>
+}
+@code{
+    private int CurrentCounter{ get; set; }
+    private void UpdateCounter(int value){
+        CurrentCounter = value;
+    }
+}

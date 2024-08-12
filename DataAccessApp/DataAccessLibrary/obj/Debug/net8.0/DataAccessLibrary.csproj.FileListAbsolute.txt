@@ -1,0 +1,12 @@
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.deps.json
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfo.cs
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\refint\DataAccessLibrary.dll
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.pdb
+D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\DataAccessApp\DataAccessLibrary\obj\Debug\net8.0\ref\DataAccessLibrary.dll

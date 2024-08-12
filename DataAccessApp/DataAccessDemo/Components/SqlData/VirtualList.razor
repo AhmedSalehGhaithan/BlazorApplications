@@ -1,0 +1,58 @@
+﻿@page "/Virtualize"
+@rendermode InteractiveServer
+<h3>Virtual List</h3>
+
+@* *********** way number one *******************@
+
+@* @foreach(var p in people)
+{
+    <p style="fornt-size:26px;">@p.FirstName  @p.LastName</p>
+}
+*@
+
+@* *********** way number Two *******************@
+@* <Virtualize Items="people" Context="p">
+
+    <ItemContent>
+        <p style="fornt-size:26px;">@p.FirstName  @p.LastName</p>
+    </ItemContent>
+
+    <EmptyContent>
+        <p style="fornt-size:26px;">No Elements Found</p>
+    </EmptyContent>
+
+</Virtualize> *@
+
+
+@* *********** way number Three *******************@
+
+<table class="table table-hover table-striped table-info" style="fornt-size:26px;">
+    
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <Virtualize Items="people" Context="p" SpacerElement="tr" OverscanCount="5">
+            <tr>
+                <td>@p.FirstName </td>
+                <td>@p.LastName </td>
+            </tr>
+        </Virtualize>
+    </tbody>
+</table>
+
+@code {
+    private List<PeopleModel> people = new();
+
+    protected override void OnInitialized()
+    {
+        for(int i = 1; i <= 500; i++)
+        {
+            people.Add(new() { FirstName = $"First Name {i}", LastName = $"Last Name {i}" });
+        }
+    }
+}

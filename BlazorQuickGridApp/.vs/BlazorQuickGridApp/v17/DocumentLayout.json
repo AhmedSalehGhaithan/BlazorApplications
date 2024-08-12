@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid.client\\pages\\testquickgrid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid.client\\pages\\testquickgrid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid.client\\blazorquickgrid.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1852B0A7-16C6-454D-848D-8B1E45111A81}|BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid.client\\blazorquickgrid.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\blazorquickgridapp\\blazorquickgrid\\blazorquickgrid\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE80515-6BA5-4146-913D-905CEE5D7F63}|BlazorQuickGrid\\BlazorQuickGrid\\BlazorQuickGrid.csproj|solutionrelative:blazorquickgrid\\blazorquickgrid\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 157,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-20T20:03:31.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:35:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlazorQuickGrid.Client.csproj",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid.Client\\BlazorQuickGrid.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T23:30:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:25:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:20:32.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\App.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\App.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:20:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Routes.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:20:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestQuickGrid.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\Pages\\TestQuickGrid.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid.Client\\Pages\\TestQuickGrid.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\Pages\\TestQuickGrid.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid.Client\\Pages\\TestQuickGrid.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:19:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:17:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid.Client\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:17:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid\\Program.cs",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:16:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorQuickGrid\\BlazorQuickGrid.Client\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\BlazorQuickGridApp\\BlazorQuickGrid\\BlazorQuickGrid.Client\\Program.cs",
+              "RelativeToolTip": "BlazorQuickGrid\\BlazorQuickGrid.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:16:27.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

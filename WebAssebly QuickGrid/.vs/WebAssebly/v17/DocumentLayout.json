@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\pages\\testquickgri.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\pages\\testquickgri.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\webassebly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\webassebly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\webassebly\\webassebly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78A361B-6718-4348-B3A0-1504E5AE08F9}|WebAssebly\\WebAssebly.csproj|solutionrelative:webassebly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WebAssebly\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Pages\\Weather.razor",
+              "RelativeToolTip": "WebAssebly\\Pages\\Weather.razor",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T00:04:00.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WebAssebly\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WebAssebly\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:54:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\_Imports.razor",
+              "RelativeDocumentMoniker": "WebAssebly\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\_Imports.razor",
+              "RelativeToolTip": "WebAssebly\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:50:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAssebly",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\WebAssebly.csproj",
+              "RelativeDocumentMoniker": "WebAssebly\\WebAssebly.csproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\WebAssebly.csproj",
+              "RelativeToolTip": "WebAssebly\\WebAssebly.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T23:50:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestQuickGri.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Pages\\TestQuickGri.razor",
+              "RelativeDocumentMoniker": "WebAssebly\\Pages\\TestQuickGri.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Pages\\TestQuickGri.razor",
+              "RelativeToolTip": "WebAssebly\\Pages\\TestQuickGri.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:50:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssebly\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\WebAssebly\\WebAssebly\\Program.cs",
+              "RelativeToolTip": "WebAssebly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:47:45.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@page "/Query"
+
+
+<PageTitle>Better Counter</PageTitle>
+
+<h1>@Title</h1>
+<p role="status">Current count: @StartingValue</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+    [SupplyParameterFromQuery]
+    public string? Title { get; set; }
+    [SupplyParameterFromQuery]
+    public int StartingValue { get; set; }
+
+    // protected override void OnParametersSet()
+    // {
+    //     Title = Title ?? "Default Title.";
+    // }
+    private void IncrementCount()
+    {
+        StartingValue++;
+    }
+}

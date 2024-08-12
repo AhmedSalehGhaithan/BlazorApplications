@@ -1,0 +1,7 @@
+.navStyle[b-u3qznpjff5] {
+    background-color: var(--cf-theme-900);
+}
+
+.navbar-nav[b-u3qznpjff5] {
+    --bs-navbar-hover-color: var(--cf-theme-400);
+}

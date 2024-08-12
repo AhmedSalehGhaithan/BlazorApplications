@@ -1,0 +1,17 @@
+.footerStyle[b-b5miv9zuex] {
+    background-color: var(--cf-theme-900);
+    color: var(--cf-light-color);
+}
+
+    .footerStyle a[b-b5miv9zuex] {
+        color: var(--cf-theme-200);
+    }
+
+        .footerStyle a:hover[b-b5miv9zuex] {
+            color: var(--cf-theme-core);
+        }
+
+    .footerStyle .bi[b-b5miv9zuex] {
+        font-size: 1.5rem;
+        padding-inline-start: 0.5rem;
+    }

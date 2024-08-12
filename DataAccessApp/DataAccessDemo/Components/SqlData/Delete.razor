@@ -1,0 +1,51 @@
+﻿@rendermode InteractiveServer
+@inject IPeopleData sql
+
+<h3 class="mt-3">Delete Person</h3>
+
+@if(people is null)
+{
+    <p>Loadding...</p>
+}
+else
+{
+    <EditForm Model="selectedPerson" method="post" FormName="createPersonForm" OnValidSubmit="DeletePerson">
+
+        <InputSelect @bind-Value="selectedPerson.Id" class="form-control">
+            @foreach(var p in people)
+            {
+                <option value="@p.Id">@p.FirstName @p.LastName</option>
+            }
+        </InputSelect>
+
+        <button class="btn btn-outline-danger mt-4" type="submit">Delete Person</button>
+    </EditForm>
+}
+@code {
+    private IEnumerable<PeopleModel>? people;
+
+    private SelectedPersonModel selectedPerson = new();
+
+    private class SelectedPersonModel
+    {
+        public int Id { get; set; }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await RefreshData();
+    }
+    private async Task RefreshData()
+    {
+        people = null;
+        people = await sql.GetAllPeople();
+    }
+
+    private async Task DeletePerson()
+    {
+        await sql.DeletePerson(selectedPerson.Id);
+        selectedPerson.Id = 0;
+        await RefreshData();
+    }
+
+}

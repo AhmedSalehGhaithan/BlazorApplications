@@ -1,0 +1,22 @@
+﻿
+@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+<h2>@GetRandom()</h2>
+
+<h4>@GetConnectionInfo()</h4>
+
+<h4>work days per week:
+    <strong>@GetValueInfo("WorkDaysPerWeek")</strong>
+</h4>
+
+<h4>Company name:
+    <strong>@GetValueInfo("Company:name")</strong>
+</h4>
+
+<Counter/>
+
+Welcome to your new app.
+

@@ -1,0 +1,20 @@
+﻿@page "/"
+@inject NavigationManager Navaigation
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<button class="btn btn-primary" @onclick=@(() => Navaigation.NavigateTo("Counter"))>
+    Mov to counter
+
+</button>
+
+@code {
+    private void moveToCounter()
+    {
+        Navaigation.NavigateTo("counter");
+    }
+}
+

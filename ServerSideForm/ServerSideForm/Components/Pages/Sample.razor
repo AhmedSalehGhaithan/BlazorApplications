@@ -1,0 +1,27 @@
+﻿@inject ILogger<Sample> logger
+
+<h3>Sample form</h3>
+<form data-enhance method="post" @formname="sample=form" @onsubmit="SubmitForm">
+    <AntiforgeryToken/>
+    <div>
+        <label>User name</label>
+        <InputText @bind-Value="FormInfo!.UserName"/>
+
+        <button class="btn btn-success" type="submit">Submit form</button>
+    </div>
+</form>
+<p>@FormInfo.UserName</p>
+@code {
+    [SupplyParameterFromForm]
+    public SampleModel? FormInfo { get; set; }
+
+    protected override void OnInitialized()
+    {  
+        FormInfo ??= new();
+    }
+
+    private void SubmitForm()
+    {
+        logger.LogInformation($"just submitted the info for {FormInfo?.UserName}");
+    }
+}

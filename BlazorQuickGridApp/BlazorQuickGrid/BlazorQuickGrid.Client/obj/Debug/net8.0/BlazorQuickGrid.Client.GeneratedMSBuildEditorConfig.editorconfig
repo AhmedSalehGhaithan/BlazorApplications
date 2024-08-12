@@ -1,0 +1,35 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorQuickGrid.Client
+build_property.RootNamespace = BlazorQuickGrid.Client
+build_property.ProjectDir = D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\BlazorQuickGridApp\BlazorQuickGrid\BlazorQuickGrid.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Year (2)\Asp\ASP.NET CORE\Ramathan\Blazor\Component\BlazorQuickGridApp\BlazorQuickGrid\BlazorQuickGrid.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Year (2)/Asp/ASP.NET CORE/Ramathan/Blazor/Component/BlazorQuickGridApp/BlazorQuickGrid/BlazorQuickGrid.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year (2)/Asp/ASP.NET CORE/Ramathan/Blazor/Component/BlazorQuickGridApp/BlazorQuickGrid/BlazorQuickGrid.Client/Pages/TestQuickGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFF1aWNrR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year (2)/Asp/ASP.NET CORE/Ramathan/Blazor/Component/BlazorQuickGridApp/BlazorQuickGrid/BlazorQuickGrid.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

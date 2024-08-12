@@ -1,0 +1,23 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<h1>Counter</h1>
+<p>Current count: <span class="@BackgroundColor">@currentCount</span></p>
+
+<button class="btn btn-primary"  @onclick=@( ()=>currentCount++)
+        disabled="@IsGreaterThanTen()">
+    Click me
+</button>
+
+@code {
+    private int currentCount = 0;
+
+    private string BackgroundColor
+    => (currentCount % 2 == 0) ? "red-background" : "yellow-background";
+
+    private bool IsGreaterThanTen()
+    {
+        return (currentCount >= 10) ? true : false;
+    }
+}
+@* ------------------------ *@

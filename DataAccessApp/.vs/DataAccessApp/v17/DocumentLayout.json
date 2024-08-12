@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataAccessDB/True/SqlTable/dbo.people.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\components\\sqldata\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\sqldata\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472385D5-CAE8-4772-93EC-DF64A14F3083}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccesslibrary\\data\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\data\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccesslibrary\\data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccesslibrary\\data\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\data\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|d:\\year (2)\\asp\\asp.net core\\ramathan\\blazor\\component\\dataaccessapp\\dataaccesslibrary\\models\\peoplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C774AA-13AD-4EED-AD32-B721878476C8}|DataAccessLibrary\\DataAccessLibrary.csproj|solutionrelative:dataaccesslibrary\\models\\peoplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataAccessDB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|solutionrelative:DataAccessDB\\storedprocedures\\spPeople_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_GetAll.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|solutionrelative:DataAccessDB\\storedprocedures\\spPeople_GetAll.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\DataAccessDB.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|solutionrelative:DataAccessDB\\DataAccessDB.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_GetAll.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|solutionrelative:DataAccessDB\\storedprocedures\\spPeople_GetAll.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{8E4CA26B-70D5-4D43-9422-2CA33E4CB9C7}|DataAccessDB\\DataAccessDB.sqlproj|solutionrelative:DataAccessDB\\storedprocedures\\spPeople_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessDemo\\appsettings.json",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\appsettings.json",
+              "RelativeToolTip": "DataAccessDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T23:27:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DataAccessDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T23:25:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "DataAccessDemo\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T23:21:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Program.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Program.cs",
+              "RelativeToolTip": "DataAccessDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:20:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\Create.razor",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Components\\SqlData\\Create.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\Create.razor",
+              "RelativeToolTip": "DataAccessDemo\\Components\\SqlData\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T23:19:49.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLibrary\\Data\\ISqlDataAccess.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\ISqlDataAccess.cs",
+              "RelativeToolTip": "DataAccessLibrary\\Data\\ISqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:14:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeopleData.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\PeopleData.cs",
+              "RelativeDocumentMoniker": "DataAccessLibrary\\Data\\PeopleData.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\PeopleData.cs",
+              "RelativeToolTip": "DataAccessLibrary\\Data\\PeopleData.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:07:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeopleModel.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Models\\PeopleModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLibrary\\Models\\PeopleModel.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Models\\PeopleModel.cs",
+              "RelativeToolTip": "DataAccessLibrary\\Models\\PeopleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:07:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLibrary\\Data\\SqlDataAccess.cs",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessLibrary\\Data\\SqlDataAccess.cs",
+              "RelativeToolTip": "DataAccessLibrary\\Data\\SqlDataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:01:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.people [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataAccessDB/True/SqlTable/dbo.people.sql",
+              "ToolTip": "dbo.people [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T22:57:07.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "spPeople_Insert.sql ",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_Insert.sql",
+              "RelativeDocumentMoniker": "DataAccessDB\\storedprocedures\\spPeople_Insert.sql",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_Insert.sql\r\n(localdb)\\ProjectModels.DataAccessDB\r\n(DESKTOP-B35KRGE\\hp)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T22:55:57.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "spPeople_GetAll.sql ",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_GetAll.sql",
+              "RelativeDocumentMoniker": "DataAccessDB\\storedprocedures\\spPeople_GetAll.sql",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\storedprocedures\\spPeople_GetAll.sql\r\n(localdb)\\ProjectModels.DataAccessDB\r\n(DESKTOP-B35KRGE\\hp)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T22:55:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDemo\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "DataAccessDemo\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T22:55:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataAccessDB",
+              "DocumentMoniker": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\DataAccessDB.sqlproj",
+              "RelativeDocumentMoniker": "DataAccessDB\\DataAccessDB.sqlproj",
+              "ToolTip": "D:\\Year (2)\\Asp\\ASP.NET CORE\\Ramathan\\Blazor\\Component\\DataAccessApp\\DataAccessDB\\DataAccessDB.sqlproj",
+              "RelativeToolTip": "DataAccessDB\\DataAccessDB.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-22T22:52:31.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
